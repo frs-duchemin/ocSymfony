@@ -101,7 +101,7 @@ class AdvertController extends Controller
             'advert' => $advert
         ));
     }
-    
+
 
     public function deleteAction($id)
     {
